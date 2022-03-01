@@ -1,20 +1,8 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="!.xWxd](JC{)k;lLyE]K">Pos</variable><variable id="+URKP*@GFu-*[m:cCmST">Enemy</variable><variable id="b|@gynxP)nzJ.c5av^.3">index</variable></variables><comment id="@t=h/uoQlC(7k{vw47!0" x="684" y="382" h="200" w="200">  using new version of KY-040 extension !!
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="!.xWxd](JC{)k;lLyE]K">Pos</variable><variable id="+URKP*@GFu-*[m:cCmST">Enemy</variable><variable id="b|@gynxP)nzJ.c5av^.3">index</variable></variables><comment id="@t=h/uoQlC(7k{vw47!0" x="19" y="-320" h="325.2525177001953" w="598.9898681640625">  using new version of KY-040 extension !!
  
  now allows pin assignment
  
   ************************
- 
- 
- 
-
- 
- 
- 
-
- 
- 
- 
-  have asked herr klein if can have user select Pin?
  
  
  
